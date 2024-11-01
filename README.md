@@ -1,4 +1,4 @@
-# Computer Vision Project: Pose, Face, Smile, and Hand Detection
+# Computer Vision Project: Pose, Face, Smile, Eyes and Hand Detection
 ## Overview
 This project utilizes OpenCV, Mediapipe, and Haar Cascades to implement a comprehensive computer vision application capable of detecting human poses, faces, smiles, and hands in real-time. The goal is to create an interactive system that can recognize and respond to various human gestures and expressions.
 ## Technologies Used
