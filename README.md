@@ -6,7 +6,8 @@ This project utilizes OpenCV, Mediapipe, and Haar Cascades to implement a compre
 - **Mediapipe:** A framework developed by Google for building multimodal applied machine learning pipelines, particularly useful for real-time facial and hand landmark detection.
 - **Haar Cascades:** A machine learning object detection method used to identify objects in images or video streams.
 ## Installation
-To set up the environment for this project, you need to install the required libraries. You can do this using pip:
+To set up the environment for this project, you need to install the required libraries. 
+You can do this using pip:
 bash
 `pip install opencv-python mediapipe`
 
